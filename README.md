@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.instagram.com/nojongbin/" target="_blank"><img src="https://img.shields.io/badge/nojongbin-ffffff?style=for-the-badge&logo=Instagram&logoColor=로고white색상"/></a>
+<a href="https://www.instagram.com/nojongbin/" target="_blank"><img src="https://img.shields.io/badge/nojongbin-ffffff?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://begong313.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-E74C3C?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nobin313)](https://solved.ac/nobin313/)
