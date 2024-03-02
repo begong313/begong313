@@ -1,5 +1,6 @@
 package com.example.springtest.dto;
 
+import com.example.springtest.entity.Developer;
 import com.example.springtest.type.DeveloperLevel;
 import com.example.springtest.type.DeveloperSkillType;
 import jakarta.validation.constraints.Max;
@@ -45,7 +46,15 @@ public class CreateDeveloper {
         private DeveloperLevel developerLevel;
         private DeveloperSkillType developerSkillType;
         private Integer experienceYears;
-
         private String memberId;
+
+        public static Response fromEntity(Developer developer) {
+            return Response.builder()
+                    .developerLevel(developer.getDeveloperLevel())
+                    .developerSkillType(developer.getDeveloperSkillType())
+                    .experienceYears(developer.getExperienceYears())
+                    .memberId(developer.getMemberId())
+                    .build();
+        }
     }
 }
