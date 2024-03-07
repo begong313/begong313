@@ -1,0 +1,23 @@
+= REST
+:doctype: book
+:icons: font
+:source-highlighter: highlisghtjs
+:toc: left
+:toclevels: 2
+:sectlinks:
+
+[[api-list]]
+== api list
+
+[[api-1]]
+=== 1
+include::{snippets}/
+[[api-2]]
+=== 2
+
+[[api-3]]
+=== 3
+
+[[api-4]]
+=== 4
+
