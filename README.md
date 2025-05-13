@@ -25,9 +25,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=begong313&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
 
-<h3>Activities</h3>
-
----
-
-<p>[2025.4 - ] Software Maestro 16th</p>
-<p>[2024.08 - 2024.12] Naver Boost Camp Web/Mobile Membership 9th</p>
+## Activities
+- **[2025.4 - ]** Software Maestro 16th
+- **[2024.08 - 2024.12]** Naver Boost Camp Web/Mobile Membership 9th
